@@ -2,7 +2,6 @@
 
 
 #Teste de sistema/Hardware v1.0
-#Centro de Informatica e Tecnologia - M Dias Branco
 #Autor: Mayara Gouveia
 #Contato: gb8may@gmail.com
 #Data: 30/05/18
